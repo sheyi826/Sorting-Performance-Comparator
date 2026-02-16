@@ -1,6 +1,4 @@
-Project Overview
-
-The goal of this project is to compare the performance of different sorting algorithms. The project will provide a framework for testing and comparing the execution time of various sorting algorithms on different datasets.
+the goal of the design is to compare the performance of different sorting algorithms. The project will provide a framework for testing and comparing the execution time of various sorting algorithms on different datasets.
 
 Design Components
 
